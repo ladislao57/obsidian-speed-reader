@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-speed-reader",
+  "name": "Speed Reader (RSVP)",
+  "version": "0.1.0-alpha",
+  "minAppVersion": "1.6.3",
+  "description": "RSVP speed reading mode for Obsidian with ORP, adaptive pauses, presets, and gestures optimized for mobile.",
+  "author": "obsidian-speed-reader-project",
+  "authorUrl": "https://github.com/ladislao57/obsidian-speed-reader",
+  "isDesktopOnly": false
+}
